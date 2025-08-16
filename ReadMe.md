@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/btc-brc20-5bytes-private.git
+   git clone https://github.com/milojeBtc/btc-brc20-5bytes-private.git
    cd bitcoin-brc20-5bytes
    ```
 
